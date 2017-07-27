@@ -1,6 +1,7 @@
 # xin_01
-my_code
-mport os  # 处理字符串路径
+##code = 'utf-8'
+##python3.5
+import os  # 处理字符串路径
 import glob  # 查找文件
 from keras.models import Sequential  # 导入Sequential模型
 from keras.layers.core import Flatten, Dense, Dropout
